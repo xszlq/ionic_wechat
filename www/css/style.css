@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+.iconBlue{
+    /*background-color: lightblue;*/
+    color: lightblue;
+}
+.iconArea{
+    color: lightcoral;
+}
+.iconRed{
+    color: orangered;
+}
+.iconGame{
+    color: greenyellow;
+}
+.iconCode{
+    color: gray;
+}
+.iconSkyBlue{
+    color: deepskyblue;
+}
+.iconYellow{
+    color: orange;
+}
+.marLeft20{
+    margin-left: 20px;
+}
+.marBot0{
+    margin-bottom: 0px;
+}
+.code{
+    display: block;
+    height: 100px;
+}
+.pic{
+    height: 80px !important;
+    width: 72px !important;
+}
+.name{
+    display: block;
+    margin-left: 70px;
+    margin-top: 28px;;
+}
